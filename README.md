@@ -3,7 +3,7 @@ Python Gacha &amp; Inventory System Simulator
 
 # 🎮 Gacha Inventory System
 
-Python-based Gacha & Inventory System Simulator project.
+SIMULATOR GACHA DENGAN PITY SYSTEM MENGGUNAKAN PYTHON.
 
 ## 📌 Description
 This project is a simulation of a gacha game system with:
@@ -13,7 +13,7 @@ This project is a simulation of a gacha game system with:
 - Searching & sorting system
 - Save/load data system
 
-Developed using Python with Rich/Textual terminal interface.
+Developed using Python with ..... terminal interface.
 
 ---
 
@@ -32,16 +32,15 @@ Developed using Python with Rich/Textual terminal interface.
 
 ## 🛠️ Technologies
 - Python
-- Rich / Textual
 - File Handling
 - GitHub
 
 ---
 
 ## 👥 Team Members
-- Member 1
-- Member 2
-- Member 3
+- Raihan
+- Justin Al Bantany
+- Tabitha Joyce Kezia
 
 ---
 
