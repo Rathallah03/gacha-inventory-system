@@ -6,10 +6,10 @@
 # ══════════════════════════════════════════
 
 FEATURED_SSR = {
-    "name": "Aether Voss",
+    "name": "SEA CHAN",
     "rarity": "SSR",
-    "element": "Anemo",
-    "weapon": "Sword",
+    "element": "Aqua",
+    "weapon": "Data-Blade",
     "region": "Mondstadt",
 }
 
