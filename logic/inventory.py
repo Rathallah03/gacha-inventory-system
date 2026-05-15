@@ -10,7 +10,6 @@ from data import RARITY_RANK, ELEMENT_COLORS, RARITY_DISPLAY
 
 inventory = []
 
-
 # ══════════════════════════════════════════
 #  ADD CHARACTER
 # ══════════════════════════════════════════
