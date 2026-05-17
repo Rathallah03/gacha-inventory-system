@@ -14,31 +14,27 @@ FEATURED_SSR = {
 }
 
 STANDARD_SSR_POOL = [
-    {"name": "Lyra Stellan",   "rarity": "SSR", "element": "Pyro",    "weapon": "Catalyst", "region": "Liyue"},
-    {"name": "Kaelith Frost",  "rarity": "SSR", "element": "Cryo",    "weapon": "Bow",      "region": "Inazuma"},
-    {"name": "Dravon Ashveil", "rarity": "SSR", "element": "Geo",     "weapon": "Claymore", "region": "Sumeru"},
-    {"name": "Mirelle Dusk",   "rarity": "SSR", "element": "Hydro",   "weapon": "Sword",    "region": "Fontaine"},
-    {"name": "Zephyr Cinder",  "rarity": "SSR", "element": "Electro", "weapon": "Polearm",  "region": "Natlan"},
+    {"name": "Prof. Caspian",  "rarity": "SSR", "element": "Plasma",  "weapon": "Module",     "region": "Engine Room"},
+    {"name": "Marina Frost",   "rarity": "SSR", "element": "Cryogen", "weapon": "Blaster",    "region": "Bio-Wing"},
+    {"name": "Atlas Reef",     "rarity": "SSR", "element": "Terra",   "weapon": "Breaker",    "region": "Surface Hub"},
+    {"name": "Coralie Stream", "rarity": "SSR", "element": "Aqua",    "weapon": "Data-Blade", "region": "Fluid Dynamics"},
+    {"name": "Zephyr Gale",    "rarity": "SSR", "element": "Aero",    "weapon": "Harpoon",    "region": "Data Archive"},
 ]
 
 SR_POOL = [
-    {"name": "Soren Brightwell", "rarity": "SR", "element": "Pyro",    "weapon": "Sword",    "region": "Mondstadt"},
-    {"name": "Nielle Vane",      "rarity": "SR", "element": "Hydro",   "weapon": "Catalyst", "region": "Liyue"},
-    {"name": "Corvin Ashe",      "rarity": "SR", "element": "Cryo",    "weapon": "Bow",      "region": "Inazuma"},
-    {"name": "Tessa Goldenleaf", "rarity": "SR", "element": "Dendro",  "weapon": "Polearm",  "region": "Sumeru"},
-    {"name": "Aldric Emberveil", "rarity": "SR", "element": "Geo",     "weapon": "Claymore", "region": "Liyue"},
-    {"name": "Fiora Mistwalker", "rarity": "SR", "element": "Anemo",   "weapon": "Sword",    "region": "Mondstadt"},
-    {"name": "Breckon Surge",    "rarity": "SR", "element": "Electro", "weapon": "Polearm",  "region": "Natlan"},
+    {"name": "Corvin Glaze",   "rarity": "SR", "element": "Cryogen", "weapon": "Blaster",    "region": "Deep Core"},
+    {"name": "Tessa Kelp",     "rarity": "SR", "element": "Bio",      "weapon": "Harpoon",    "region": "Data Archive"},
+    {"name": "Aldric Fathom",  "rarity": "SR", "element": "Terra",   "weapon": "Breaker",    "region": "Bio-Wing"},
+    {"name": "Fiora Gulf",     "rarity": "SR", "element": "Aero",    "weapon": "Data-Blade", "region": "Surface Hub"},
+    {"name": "Breckon Surge",  "rarity": "SR", "element": "Volt",    "weapon": "Harpoon",    "region": "Engine Room"},
 ]
 
 R_POOL = [
-    {"name": "Cedric Ironfoot",  "rarity": "R", "element": "Geo",     "weapon": "Claymore", "region": "Liyue"},
-    {"name": "Willa Ferngrove",  "rarity": "R", "element": "Pyro",    "weapon": "Bow",      "region": "Mondstadt"},
-    {"name": "Oswin Saltmere",   "rarity": "R", "element": "Hydro",   "weapon": "Polearm",  "region": "Fontaine"},
-    {"name": "Petra Coldsnap",   "rarity": "R", "element": "Cryo",    "weapon": "Sword",    "region": "Inazuma"},
-    {"name": "Davin Sparkholt",  "rarity": "R", "element": "Electro", "weapon": "Catalyst", "region": "Sumeru"},
-    {"name": "Rinna Mosswhirl",  "rarity": "R", "element": "Dendro",  "weapon": "Bow",      "region": "Sumeru"},
-    {"name": "Tobren Ashenford", "rarity": "R", "element": "Anemo",   "weapon": "Sword",    "region": "Mondstadt"},
+    {"name": "Cedric Shoal",   "rarity": "R", "element": "Terra",   "weapon": "Breaker",    "region": "Bio-Wing"},
+    {"name": "Willa Crest",    "rarity": "R", "element": "Plasma",  "weapon": "Blaster",    "region": "Surface Hub"},
+    {"name": "Oswin Eddy",     "rarity": "R", "element": "Aqua",    "weapon": "Harpoon",    "region": "Fluid Dynamics"},
+    {"name": "Petra Rime",     "rarity": "R", "element": "Cryogen", "weapon": "Data-Blade", "region": "Deep Core"},
+    {"name": "Rinna Bloom",    "rarity": "R", "element": "Bio",      "weapon": "Blaster",    "region": "Data Archive"},
 ]
 
 # ══════════════════════════════════════════
