@@ -50,13 +50,13 @@ RARITY_DISPLAY = {
 RARITY_RANK = {"SSR": 3, "SR": 2, "R": 1}  # untuk sorting
 
 ELEMENT_COLORS = {
-    "Pyro":    "🔴",
-    "Hydro":   "🔵",
-    "Anemo":   "🟢",
-    "Electro": "🟣",
-    "Dendro":  "🌿",
-    "Cryo":    "⚪",
-    "Geo":     "🟡",
+    "Plasma":  "🔴", # Panas/Api
+    "Aqua":    "🔵", # Air/Fluida
+    "Aero":    "🟢", # Angin/Gas
+    "Volt":    "🟣", # Listrik
+    "Bio":     "🌿", # Organik
+    "Cryogen": "⚪", # Dingin/Es
+    "Terra":   "🟡", # Mineral/Bumi
 }
 
 # ══════════════════════════════════════════
