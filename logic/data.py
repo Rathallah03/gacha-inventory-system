@@ -10,7 +10,7 @@ FEATURED_SSR = {
     "rarity": "SSR",
     "element": "Aqua",
     "weapon": "Data-Blade",
-    "region": "Mondstadt",
+    "region": "Deep Core",
 }
 
 STANDARD_SSR_POOL = [
